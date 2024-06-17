@@ -1,2 +1,4 @@
 # CINEMAX
 A MOVIE WEBSITE 
+# HOME PAGE
+https://raju15822.github.io/CINEMAX/
